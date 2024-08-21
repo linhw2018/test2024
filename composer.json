@@ -1,5 +1,5 @@
 {
-    "name": "hzl-02/test2024",
+    "name": "linhw2018/test2024",
     "type": "library",
     "require-dev": {
         "php": ">5.4"
@@ -7,7 +7,7 @@
     "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
-            "Hzl02\\Test2024\\": "src/"
+            "Linhw2018\\Test2024\\": "src/"
         }
     },
     "authors": [
